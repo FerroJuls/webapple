@@ -1,0 +1,160 @@
+body{
+    background-color: black !important;
+}
+
+/* barra del menu */
+li{
+    color: white !important;
+}
+
+
+.Inicio{
+    width: 46px;
+    height: 20px;
+    position: sticky;
+    top: 96%;
+    left: 96%;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+
+.nav_menu{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+}
+.nav_logo{
+    width: 18%;
+}
+.img_logo{
+    margin-left: 100%;
+}
+.nav_barra_menu{
+    width: 70%;
+}
+.menu{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+.menu > li{
+    list-style: none;
+}
+.menu > li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/*Bloque */
+.bloque{
+    width: 80%;
+    height: 100%;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+/* bloque 2 */
+.bloque_2{
+    display: flex;
+}
+.div_texto{
+    margin-top: 70px;
+}
+
+
+/* bloque 3 */
+.bloque_3{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.color_blanco{
+    margin: 10px;
+}
+
+/* bloque 4 */
+
+.bloque_4{
+    margin: 80px 0px 100px 0px;
+    color: rgb(255, 255, 255);
+}
+.bloque_41{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+
+}
+.bloque_42{
+    display: flex;
+    margin: 70px;
+    color: rgb(255, 255, 255);
+
+}
+
+/* bloque 5 */
+.bloque_5{
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+.bloque_51{
+    display: flex;
+    margin-top: 10px;
+}
+
+/* bloque 6 */
+.bloque_6{
+    margin: 150px 10px 150px 10px;
+    color: rgb(255, 255, 255);
+}
+.bloque_61{
+    display: flex;
+    margin-top: 10px;
+}
+
+/* bloque 7 */
+.bloque_7{
+    margin: 30px 10px 200px 10px;
+    color: rgb(255, 255, 255);
+}
+.bloque_71{
+    display: flex;
+    margin-top: 10px;
+}
+.div_1{
+    width: 50%;
+}
+.div_11{
+    width: 50%;
+    margin-top: 50px;
+}
+
+/* bloque 8 */
+.bloque_8{
+    margin: 50px 10px 150px 10px;
+    color: rgb(255, 255, 255);
+}
+/* bloque 9 */
+.bloque_9{
+    margin: 150px 10px 150px 20%;
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+/* bloque 10 */
+.bloque_10{
+    margin: 150px 10px 200px 10px;
+    color: rgb(255, 255, 255);
+}
+.bloque_101{
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
